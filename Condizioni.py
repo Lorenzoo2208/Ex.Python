@@ -1,13 +1,13 @@
 #Esercitazione Condizioni
 
-import random
-
-if random > 10:
-    print("il numero è maggiore di 10.")
-elif random == 10:
-    print("il numero è uguale a 10.")
+numero = 7
+tentativo = int(input("indovina il numero ( tra 1 e 10):"))
+if tentativo == numero:
+    print("hai indovinato il numero.")
+elif tentativo > numero:
+    print("il numero è troppo alto.")
 else:
-    print("il numero è inferiore a 10.")    
+    print("il numero è troppo basso.")    
 
 
 
