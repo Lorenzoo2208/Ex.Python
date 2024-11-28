@@ -1,3 +1,0 @@
-#Esercitazione Print
-
-

@@ -1,2 +1,0 @@
-
-#commento di testo
